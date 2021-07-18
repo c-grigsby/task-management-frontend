@@ -2,7 +2,7 @@
 
 Provides a front-end for the task management application.
 
-[Live Demo](https://soonToCome.com)
+[Live Demo](https://grigsby9.github.io/task-management-frontend/)
 
 ## Project Specifications
 
