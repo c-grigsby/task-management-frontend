@@ -1,3 +1,10 @@
-# Task Management Application Front-end
+## Task Management App Front-end
 
-This application acts as the front-end for the Task Management application.
+Provides a front-end for the task management application.
+
+[Live Demo](https://soonToCome.com)
+
+## Project Specifications
+
+- Developed in React
+- Utilizes a back-end API developed in NestJS
