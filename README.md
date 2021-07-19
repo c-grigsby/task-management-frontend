@@ -1,12 +1,16 @@
 ## Task Management App Front-end
 
-Provides a front-end for the task management application.
+This application is the front-end for the task management application.
 
-[Live Demo](https://grigsby9.github.io/task-management-frontend/)
+[Live Demo of Task Management Application](https://grigsby9.github.io/task-management-frontend/)
 
 ## Project Specifications
 
 - Developed in React
-- Utilizes a back-end API developed in [NestJS](https://nestjs.com/)
-- User must sign-up to create an account before utilizing the application
-- Tasks are owned by the user
+- Utilizes a back-end developed in [NestJS](https://nestjs.com/)
+
+#
+
+#### Note: Users must sign-up to create an account to utilize the application
+
+#
