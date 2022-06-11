@@ -2,7 +2,7 @@
 
 This application is the front-end to the task management application
 
-[Live Demo of Task Management App](https://grigsby9.github.io/task-management-frontend/)
+[Live Demo of Task Management App](https://c-grigsby.github.io/task-management-frontend/)
 
 ## Project Specifications
 
@@ -11,7 +11,7 @@ This application is the front-end to the task management application
 -   UI for authentication & authorization
 -   Utilizes a back-end developed in NestJS
 
-Link to [back-end repository](https://github.com/grigsby9/task-management-backend)
+Link to [back-end repository](https://github.com/c-grigsby/task-management-backend)
 
 #
 
