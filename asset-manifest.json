@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://grigsby9.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://grigsby9.github.io/task-management-frontend/static/js/main.0587ee68.chunk.js",
-    "main.js.map": "https://grigsby9.github.io/task-management-frontend/static/js/main.0587ee68.chunk.js.map",
-    "runtime~main.js": "https://grigsby9.github.io/task-management-frontend/static/js/runtime~main.09467365.js",
-    "runtime~main.js.map": "https://grigsby9.github.io/task-management-frontend/static/js/runtime~main.09467365.js.map",
-    "static/js/2.d0098f24.chunk.js": "https://grigsby9.github.io/task-management-frontend/static/js/2.d0098f24.chunk.js",
-    "static/js/2.d0098f24.chunk.js.map": "https://grigsby9.github.io/task-management-frontend/static/js/2.d0098f24.chunk.js.map",
-    "index.html": "https://grigsby9.github.io/task-management-frontend/index.html",
-    "precache-manifest.9576e5e0f791f2f30ebdf7c529d2a91a.js": "https://grigsby9.github.io/task-management-frontend/precache-manifest.9576e5e0f791f2f30ebdf7c529d2a91a.js",
-    "service-worker.js": "https://grigsby9.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://grigsby9.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://c-grigsby.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://c-grigsby.github.io/task-management-frontend/static/js/main.fea5fbeb.chunk.js",
+    "main.js.map": "https://c-grigsby.github.io/task-management-frontend/static/js/main.fea5fbeb.chunk.js.map",
+    "runtime~main.js": "https://c-grigsby.github.io/task-management-frontend/static/js/runtime~main.023fa917.js",
+    "runtime~main.js.map": "https://c-grigsby.github.io/task-management-frontend/static/js/runtime~main.023fa917.js.map",
+    "static/js/2.76970f2b.chunk.js": "https://c-grigsby.github.io/task-management-frontend/static/js/2.76970f2b.chunk.js",
+    "static/js/2.76970f2b.chunk.js.map": "https://c-grigsby.github.io/task-management-frontend/static/js/2.76970f2b.chunk.js.map",
+    "index.html": "https://c-grigsby.github.io/task-management-frontend/index.html",
+    "precache-manifest.61c8f2764ff0c1782a667d3ad0fc2fdb.js": "https://c-grigsby.github.io/task-management-frontend/precache-manifest.61c8f2764ff0c1782a667d3ad0fc2fdb.js",
+    "service-worker.js": "https://c-grigsby.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://c-grigsby.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
